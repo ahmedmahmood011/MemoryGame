@@ -171,5 +171,8 @@ body {
     .btn {
         display: flex;
     }
+    .start-End .screen .masseag {
+        font-size: 30px;
+    }
 }
 
